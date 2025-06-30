@@ -22,3 +22,6 @@ The booking system willl be able to do the following:
 - receive other details of the booking
 - send the price for payment system to handle
 
+## Reviews and Ratings
+- Guest should be able to add reviews and rating
+- Prospecting guest should be able to view rating and review as they explore
